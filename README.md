@@ -1,4 +1,4 @@
-# resumo-do-lab-azzure
+# Resumo-do-lab-azzure
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
 
 Inicilamente cramos um conta na Microsoft azzure, podemos anexar uma conta microsoft existente caso 
